@@ -1,0 +1,20 @@
+{
+    "test": {
+        "mae": 1.4848437651427222,
+        "rmse": 1.8400344264517565,
+        "r2": 0.30970151889757613
+    },
+    "training_mean_baseline": {
+        "mae": 1.7907329629629627,
+        "rmse": 2.21468090102484,
+        "r2": -1.6904328258959822e-05
+    },
+    "best_cv_rmse": 1.8919482426975172,
+    "best_params": {
+        "random_strength": 1,
+        "learning_rate": 0.02,
+        "l2_leaf_reg": 3,
+        "iterations": 700,
+        "depth": 4
+    }
+}

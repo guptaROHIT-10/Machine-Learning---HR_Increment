@@ -1,0 +1,25 @@
+{
+    "validation_metrics": {
+        "mae": 1.5128426146199725,
+        "rmse": 1.9062762835375666,
+        "r2": 0.29681411858704976
+    },
+    "test_metrics": {
+        "mae": 1.566432214682423,
+        "rmse": 1.9316491004079681,
+        "r2": 0.2392508199880128
+    },
+    "training_mean_baseline": {
+        "mae": 1.7907329629629627,
+        "rmse": 2.21468090102484,
+        "r2": -1.6904328258959822e-05
+    },
+    "best_cv_rmse": 1.9344490442435198,
+    "best_params": {
+        "n_estimators": 300,
+        "min_samples_split": 10,
+        "min_samples_leaf": 2,
+        "max_features": 0.7,
+        "max_depth": 20
+    }
+}
