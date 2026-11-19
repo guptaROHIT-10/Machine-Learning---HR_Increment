@@ -250,7 +250,7 @@ with st.form("salary_increment_form"):
     submitted = st.form_submit_button(
         "Predict Salary Increment",
         type="primary",
-        width=True,
+        use_container_width=True
     )
 
 
